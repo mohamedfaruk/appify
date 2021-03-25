@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appify/static/css/main.1c1f3ca2.chunk.css",
+    "main.js": "/appify/static/js/main.1c0d165a.chunk.js",
+    "main.js.map": "/appify/static/js/main.1c0d165a.chunk.js.map",
+    "runtime-main.js": "/appify/static/js/runtime-main.b2d95d3c.js",
+    "runtime-main.js.map": "/appify/static/js/runtime-main.b2d95d3c.js.map",
+    "static/js/2.b56432a1.chunk.js": "/appify/static/js/2.b56432a1.chunk.js",
+    "static/js/2.b56432a1.chunk.js.map": "/appify/static/js/2.b56432a1.chunk.js.map",
+    "static/js/3.3936a09b.chunk.js": "/appify/static/js/3.3936a09b.chunk.js",
+    "static/js/3.3936a09b.chunk.js.map": "/appify/static/js/3.3936a09b.chunk.js.map",
+    "index.html": "/appify/index.html",
+    "static/css/main.1c1f3ca2.chunk.css.map": "/appify/static/css/main.1c1f3ca2.chunk.css.map",
+    "static/js/2.b56432a1.chunk.js.LICENSE.txt": "/appify/static/js/2.b56432a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d95d3c.js",
+    "static/js/2.b56432a1.chunk.js",
+    "static/css/main.1c1f3ca2.chunk.css",
+    "static/js/main.1c0d165a.chunk.js"
+  ]
+}
